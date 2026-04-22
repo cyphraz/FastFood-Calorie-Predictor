@@ -17,8 +17,7 @@ based on macronutrients such as Total Fat, Carbohydrates, and Protein.
 - **Name:** Fast Food Nutrition Menu V3
 - **Source:** Kaggle (Public Dataset)
 - **File:** `FastFoodNutritionMenuV3.csv`
-- **License:** Open public dataset, no additional permissions required
-
+- **Dataset License:** Database Contents License (DbCL) via Kaggle
 ---
 
 ## Project Contents
